@@ -2,7 +2,7 @@
 
 **Team Cupcoffee** | NASA Space Apps Challenge | Challenge: Build a Junior Astronaut Mission Trainer
 
-Play it in your browser: **PASTE YOUR GITHUB PAGES LINK HERE**
+Play it in your browser: **https://shivamdwivedicse.github.io/Moonbase-commander/**
 
 ## What it is
 
