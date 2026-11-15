@@ -1,6 +1,6 @@
 # Moonbase Commander
 
-**Project Cupcoffee** | NASA Space Apps Challenge | Challenge: Build a Junior Astronaut Mission Trainer
+**Team Cupcoffee** | NASA Space Apps Challenge | Challenge: Build a Junior Astronaut Mission Trainer
 
 Play it in your browser: **PASTE YOUR GITHUB PAGES LINK HERE**
 
